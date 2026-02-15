@@ -1,9 +1,6 @@
 # Folders
 */build/
 
-# SourcePawn
-*.smx
-
 # Others
 *.exe
 *.dat
