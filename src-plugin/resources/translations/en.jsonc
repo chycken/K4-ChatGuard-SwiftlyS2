@@ -1,0 +1,8 @@
+{
+  "prefix": "[silver][ [red]ChatGuard [silver]]",
+
+  "blacklist.blocked": "{0} [lightred]Your message contains a blacklisted word.",
+  "ipfilter.blocked": "{0} [lightred]Advertising server IP addresses is not allowed.",
+  "spam.chat.warning": "{0} [gold]You are sending messages too quickly! Slow down.",
+  "name.blocked": "{0} [lightred]Your name contains a blacklisted word. Renamed to: [gold]{1}"
+}
