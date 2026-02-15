@@ -12,7 +12,7 @@
 <div align="center">
   <h1 align="center">KitsuneLab©</h1>
   <h3 align="center">K4-ChatGuard</h3>
-  <a align="center">Advanced chat protection system for Counter-Strike 2 servers. Features intelligent word filtering, IP address blocking with whitelist support, and robust spam prevention to maintain a clean and safe chat environment.</a>
+  <a align="center">Advanced chat protection system for Counter-Strike 2 servers. Features intelligent word filtering, IP address blocking with whitelist support, and robust spam and bad name prevention to maintain a clean and safe chat environment.</a>
 
   <p align="center">
     <br />
