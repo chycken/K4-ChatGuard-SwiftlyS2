@@ -52,6 +52,27 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: version
+    attributes:
+      label: SwiftlyS2 Version
+      description: Which version are you using?
+      placeholder: "e.g., v1.2.3"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Server Operating System
+      description: What OS is the SERVER running on? (Required)
+      options:
+        - Windows
+        - Linux
+      default: 1
+    validations:
+      required: true
+
   - type: checkboxes
     id: checklist
     attributes:
