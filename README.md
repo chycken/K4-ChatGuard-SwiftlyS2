@@ -1,26 +1,26 @@
 <a name="readme-top"></a>
 
-![GitHub tag (with filter)](https://img.shields.io/github/v/tag/K4ryuu/K4-ChatGuard?style=for-the-badge&label=Version)
-![GitHub Repo stars](https://img.shields.io/github/stars/K4ryuu/K4-ChatGuard?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/K4ryuu/K4-ChatGuard?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/K4ryuu/K4-ChatGuard?style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/K4ryuu/K4-ChatGuard/total?style=for-the-badge)
+![GitHub tag (with filter)](https://img.shields.io/github/v/tag/K4ryuu/K4-ChatGuard-SwiftlyS2?style=for-the-badge&label=Version)
+![GitHub Repo stars](https://img.shields.io/github/stars/K4ryuu/K4-ChatGuard-SwiftlyS2?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/K4ryuu/K4-ChatGuard-SwiftlyS2?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/K4ryuu/K4-ChatGuard-SwiftlyS2?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/K4ryuu/K4-ChatGuard-SwiftlyS2/total?style=for-the-badge)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/k4-fanbase)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <h1 align="center">KitsuneLab©</h1>
-  <h3 align="center">K4-ChatGuard</h3>
+  <h3 align="center">K4-ChatGuard-SwiftlyS2</h3>
   <a align="center">Advanced chat protection system for Counter-Strike 2 servers. Features intelligent word filtering, IP address blocking with whitelist support, and robust spam and bad name prevention to maintain a clean and safe chat environment.</a>
 
   <p align="center">
     <br />
-    <a href="https://github.com/K4ryuu/K4-ChatGuard/releases/latest">Download</a>
+    <a href="https://github.com/K4ryuu/K4-ChatGuard-SwiftlyS2/releases/latest">Download</a>
     ·
-    <a href="https://github.com/K4ryuu/K4-ChatGuard/issues/new?assignees=K4ryuu&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
+    <a href="https://github.com/K4ryuu/K4-ChatGuard-SwiftlyS2/issues/new?assignees=K4ryuu&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
-    <a href="https://github.com/K4ryuu/K4-ChatGuard/issues/new?assignees=K4ryuu&labels=enhancement&projects=&template=feature_request.md&title=%5BREQ%5D">Request Feature</a>
+    <a href="https://github.com/K4ryuu/K4-ChatGuard-SwiftlyS2/issues/new?assignees=K4ryuu&labels=enhancement&projects=&template=feature_request.md&title=%5BREQ%5D">Request Feature</a>
   </p>
 </div>
 
@@ -113,10 +113,10 @@ Every contribution helps me dedicate more time to development, support, and crea
 ## Installation
 
 1. Install [SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) on your server
-2. [Download the latest release](https://github.com/K4ryuu/K4-ChatGuard/releases/latest)
+2. [Download the latest release](https://github.com/K4ryuu/K4-ChatGuard-SwiftlyS2/releases/latest)
 3. Extract to your server's `swiftlys2/plugins/` directory
 4. Configure `config.json` and translations in the plugin folder
-5. Restart your server or use `css_plugins load K4-ChatGuard`
+5. Restart your server or use `css_plugins load K4-ChatGuard-SwiftlyS2`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,6 +188,6 @@ Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
 ## Contact
 
 - **Discord**: Join our [K4 Fanbase Discord](https://dsc.gg/k4-fanbase)
-- **Issues**: [GitHub Issues](https://github.com/K4ryuu/K4-ChatGuard/issues)
+- **Issues**: [GitHub Issues](https://github.com/K4ryuu/K4-ChatGuard-SwiftlyS2/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
