@@ -62,6 +62,3 @@ obj/
 
 # Ignore any file or folder ending with `.local`
 **/*.local
-
-# Shared API exports
-src-plugin/resources/exports/K4-LevelRanksSharedApi.dll
