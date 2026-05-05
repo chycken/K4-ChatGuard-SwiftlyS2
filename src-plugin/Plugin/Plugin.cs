@@ -13,7 +13,7 @@ using Microsoft.Extensions.Logging;
 
 namespace K4ChatGuard;
 
-[PluginMetadata(Id = "k4.chatguard", Version = "1.0.1", Name = "K4 - ChatGuard", Author = "K4ryuu", Description = "Advanced chat protection with blacklist filtering, IP blocking, and spam prevention for CS2.")]
+[PluginMetadata(Id = "k4.chatguard", Version = "1.0.2", Name = "K4 - ChatGuard", Author = "K4ryuu", Description = "Advanced chat protection with blacklist filtering, IP blocking, and spam prevention for CS2.")]
 public sealed partial class Plugin(ISwiftlyCore core) : BasePlugin(core)
 {
 	public static new ISwiftlyCore Core { get; private set; } = null!;
